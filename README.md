@@ -2,5 +2,4 @@
 
 ## Techniques used
 
-CSS
-HTML
+HTML and CSS
