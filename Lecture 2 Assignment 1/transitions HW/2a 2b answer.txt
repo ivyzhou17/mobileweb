@@ -1,0 +1,17 @@
+2a. If I utilize the term "all", what can I delete from the following code?     
+transition: background .3s ease, color 0.2s linear; 
+
+We can delete Background and Color
+
+2b. Define the following timing functions/transitioning elements:
+           
+"CSS Transitions allow property changes in CSS values to occur smoothly over a specified duration."
+
+ease: transition slowly at beginning and end, speeds up in the middle of transition
+linear: same transition speed throughout
+ease-in: slow beginning transition
+ease-out: slow ending transition
+ease-in-out: similar to ease, but slower beginning and end transitions
+cubic bezier: transition “runs up” first
+
+

@@ -1,0 +1,22 @@
+body {background-color: #fffaca;}
+a.bcc {
+	
+padding: 20px 60px;
+background: skyblue;
+border: 3px dotted #ffffff;
+color: black;
+font-size: 20px;
+    
+-webkit-transition: all 0.5s ease-in;
+-moz-transition: all 0.5s ease-in;
+-o-transition: all 0.5s ease-in;
+transition: all 0.5s ease-in;
+    
+}
+a.bcc:hover {
+    
+background: white;
+border: 2px dashed darksalmon;
+color: darksalmon;
+
+}
