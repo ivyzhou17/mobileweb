@@ -1,4 +1,4 @@
-# My finished assignments for my Mobile/Cross Platform course
+# My finished projects
 
 ## Techniques used
 
