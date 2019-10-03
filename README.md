@@ -1,1 +1,6 @@
-These are my finished assignments for my Mobile/Cross Platform course
+# My finished assignments for my Mobile/Cross Platform course
+
+## Techniques used
+
+CSS
+HTML
